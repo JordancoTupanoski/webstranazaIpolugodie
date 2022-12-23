@@ -1,0 +1,97 @@
+body{
+    background-color: #0077B6;
+}
+
+.header{
+    text-align: center;
+    word-spacing: 400px;
+    border-color: black;
+    background-color: #03045E;
+    border-radius: 100px;
+    padding: 1em;
+    position: absolute;
+    width: 100%;
+}
+
+.headerlinks{
+    font-size: 180%;
+    text-decoration: none;
+    color: #00B4D8;
+    font-style: italic;
+    font-weight: 400;
+}
+
+.naslov{
+    color: #7E8D85;
+    text-align: center;
+    font-size: 50px;
+}
+
+p{
+    font-size: 20px;
+}
+
+ul{
+    text-align: left;
+    display: inline-block;
+}
+
+.prasanje_jordanco{
+    text-align: center;
+}
+
+.prasanja{
+    text-align: center;
+}
+
+.podprasanja{
+    height: 2px;
+    background-color: #FFFD98;
+    border-radius: 20;
+    margin: 100px;
+}
+
+.krug{
+    background-color: rgb(16, 132, 214);
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    margin: 0 auto;
+    position: relative;
+}
+
+.vkrugh1{
+    position: absolute;
+    width: inherit;
+    height: auto;
+    top: 35%;
+}
+
+.linkza2ndstrana{
+    color: rgb(27, 164, 202);
+    text-decoration: none;
+}
+
+.start{
+    text-decoration: none;
+    color: rgb(0, 92, 112);
+}
+
+.cinematicvid{
+    width: 1000px;
+}
+
+.slik1{
+    float: left;
+    height: 600px;
+}
+
+.slik2{
+    float: right;
+    height: 400px;
+}
+
+.feedback{
+    text-decoration: none;
+    color: brown;
+}

@@ -1,0 +1,32 @@
+body{
+    background-color: #DBD56E;
+    //ova e za headerot: #88AB75;
+}
+
+h1{
+    text-align: center;
+    color: #786452;
+}
+
+h2{
+    text-align: center;
+}
+
+.kvadrat{
+    width: 500px;
+    height: 400px;
+    background-color: rgb(212, 191, 163);
+    border-radius: 2%;
+    margin: 0 auto;
+    position: relative;
+    text-align: center;
+    margin: auto;
+}
+
+.submit{
+    background-color: rgb(52, 52, 223);
+}
+
+.feedback{
+    font-size: 40px;
+}
